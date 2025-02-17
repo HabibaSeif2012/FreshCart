@@ -27,7 +27,6 @@ import OrdersContextProvider from "./Context/OrdersContext";
 import Wishlist from "./Components/Wishlist/Wishlist";
 import WishlistContextProvider from "./Context/WishlistContext";
 import RePassword from "./Components/Repassword/Repassword";
-
 let query = new QueryClient(); //takes a copy from  QueryClient
 
 let x = createBrowserRouter([
