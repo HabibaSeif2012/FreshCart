@@ -1,5 +1,4 @@
 import React, { useContext, useState } from "react";
-import style from "./RePassword.module.css";
 import { UserContext } from "../../Context/UserContext";
 import { Formik, useFormik } from "formik";
 import * as yup from "yup";
